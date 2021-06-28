@@ -151,3 +151,59 @@ a {
 .header .container .content-wrapper p {
      font-size: 20px
 }
+
+/* section two */
+
+.disease{
+    background-color: #E4E4E4;
+    
+}
+.cont2{
+    background-color: #E4E4E4;
+    text-align: center;
+    padding: 50px 0px;
+    
+}
+.image{
+    width: 100%;
+    margin-top: 20px;
+    position:relative;
+    height: 245px;
+}
+.card-content{
+    
+}
+
+.content{ 
+    text-align:center;
+    background-color:white;
+    padding:20px 30px;
+    width:300px;
+    transform:translateY(-50px);
+    position: relative;
+    box-shadow: 1px 1px 5px rgba(0, 0, 0, .3);
+    margin:auto;
+}
+.text{
+    text-align: right;
+    margin:auto;
+}
+.btn{ 
+    background-color:var(--main-color);
+    color: rgba(255, 255, 255, 0.7);
+    padding:10px 40px;
+    margin:20px 10px 0 0;
+    font-size: 18px;
+    border-radius: 20px;
+    transition: 0.3s all ease-in-out;
+}
+
+.btn:hover{
+    color:white;
+    transform:scale(1.03);
+}
+
+
+
+
+
