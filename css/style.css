@@ -229,7 +229,8 @@ width: 300px;
  margin-top: 10px;
  border:transparent;
 border-radius: 20px;
-background-image: linear-gradient(to right, rgb(15, 168, 79), rgb(146, 236, 224), rgb(5, 148, 129) );
+background: var(--main-color);
+color: #fff
 
 }
 .lin{
@@ -305,7 +306,7 @@ padding: 10px;
 margin-top: 10px;
 border:transparent;
 border-radius: 20px;
-background-image: linear-gradient(to right, rgb(15, 86, 168), rgb(13, 182, 83) ,rgb(115, 238, 221) );
+background-image: linear-gradient(to right, #297af3, #2789ce);
 color: white;
 
 }
