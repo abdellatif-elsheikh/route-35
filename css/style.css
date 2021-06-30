@@ -203,10 +203,9 @@ a {
     transform:scale(1.03);
 }
 .three{
-    background-image: url(../42Untitled-6-Recovered-Recovered-Recovered-Recovered-Recovered-Recovered-Recovered-Recovered-Recovered.jpg);
-    background-position: center center;
-    background-size: cover;
-    background-attachment: fixed;
+    background: url("../images/42Untitled-6-Recovered-Recovered-Recovered-Recovered-Recovered-Recovered-Recovered-Recovered-Recovered.jpg") no-repeat center center/cover;
+  
+     background-attachment: fixed; 
 }
 .color{
     /* background-color:linear-gradient(to right , #00c19d,#00e589); */
@@ -250,7 +249,72 @@ background-image: linear-gradient(to right, rgb(15, 168, 79), rgb(146, 236, 224)
     margin: 20px;
 }
 
+.icon{
+    background-color: white;
+    width: 45px;
+    height: 45px;
+border-radius: 50%;
+}
+.final{
+    background-color: #0e898d;
+}
+.last-p{
+    color: #fff;
+    font-size: 20px;
+}
+.last-p a{
+    color: #fff;
+    font-size: 20px;
+    text-decoration: none;
+}
+.social  p{
+    color: #fff;
+}
+.social i{
+    font-size: 20px;
+}
+.socil a{
+    text-decoration: none;
+}
+.face  {
+    color: rgb(41, 122, 243);
+}
+.twitter{
+    color: rgb(41, 122, 243);
+}
+.google{
+    color:  rgb(9, 102, 48); 
+    
+}
+.sign h2{
+    color: white;
 
+}
+.sign input{
+    border-radius: 15px;
+}
+.sign a{
+    text-decoration: none;
+    color: rgb(8, 84, 197);
+    margin-left: 18px;
+    font-size: 19px;
+}
+.sign button{
+width: 300px;
+padding: 10px;
+margin-top: 10px;
+border:transparent;
+border-radius: 20px;
+background-image: linear-gradient(to right, rgb(15, 86, 168), rgb(13, 182, 83) ,rgb(115, 238, 221) );
+color: white;
+
+}
+.sign p{
+    color: white;
+    font-size: 18px;
+}
+
+ 
 
 
 
