@@ -202,6 +202,53 @@ a {
     color:white;
     transform:scale(1.03);
 }
+.three{
+    background-image: url(../42Untitled-6-Recovered-Recovered-Recovered-Recovered-Recovered-Recovered-Recovered-Recovered-Recovered.jpg);
+    background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.color{
+    /* background-color:linear-gradient(to right , #00c19d,#00e589); */
+    background-color: rgba(5,169,158,0.45);
+}
+.row h3{
+    font-size: 24px;
+}
+.row span{
+    padding-right: 30px;
+    font-weight: 800;
+}
+.row span a{
+    color: #0cb37b;
+    font-weight: 900;
+    text-decoration: none;
+}
+.butt button{
+width: 300px;
+ padding: 10px;
+ margin-top: 10px;
+ border:transparent;
+border-radius: 20px;
+background-image: linear-gradient(to right, rgb(15, 168, 79), rgb(146, 236, 224), rgb(5, 148, 129) );
+
+}
+.lin{
+    height: 2px;
+    width: 300px;
+    background-color:  #0cb37b;
+    margin-right: 25px;
+}
+.last-lin{
+    height: 2px;
+    width: 50px;
+    background-color:  #0cb37b;
+    margin-right: 15px;
+}
+.three p{
+    font-size: 18px;
+    margin: 20px;
+}
 
 
 
